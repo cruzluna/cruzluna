@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am a Mechanical engineering student with an interest in programming. Experienced in Python, C++, & MATLAB. 
+I plan to help build the Metaverse and turn it into a household name. In the near future, I will contribute to open source projects.
+
+-:hammer: I am currently grindindg for an internship
+- 📫 How to reach me: LunaC8@unlv.nevada.edu
