@@ -23,5 +23,5 @@ I plan to help build the Metaverse :globe_with_meridians: and turn it into a hou
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:LunaC8@unlv.nevada.edu)](mailto:LunaC8@unlv.nevada.edu)
 
 ## Currently Learning :brain:
-- AR/VR Technology
+- Web3 Technology
 - Metaverse
