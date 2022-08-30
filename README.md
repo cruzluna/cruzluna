@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I am a Mechanical Engineering student with an interest in programming. Experienced in Python<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>, C++ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>, & MATLAB. 
-I plan to help build the Metaverse :globe_with_meridians: and turn it into a household name. In the near future, I will contribute to open source projects.
+Grind
 
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
