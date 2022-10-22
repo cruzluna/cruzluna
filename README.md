@@ -23,5 +23,4 @@ Grind
 
 ## Currently Learning :brain:
 -  working on projects atm
-#- Web3 Technology
-#- Metaverse
+
