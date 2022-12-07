@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ## About me
 Grinding on start up. Ant Farm
+
+Life status: Adopted the Thanos Mindset
 <!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
