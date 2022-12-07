@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-Grind
-
+Grinding on start up. Ant Farm
+<!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruz-luna-335753212/)](https://www.linkedin.com/in/cruz-luna-335753212/)
@@ -24,3 +24,4 @@ Grind
 ## Currently Learning :brain:
 -  working on projects atm
 
+-->
