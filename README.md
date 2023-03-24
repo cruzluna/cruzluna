@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## About me
-Grinding on start up. Ant Farm
+-->
+Grinding on start up 
+[notespace.ai](https://www.notespace.ai/)
 
 Life status: Adopted the Thanos Mindset
 <!--
