@@ -19,6 +19,8 @@ Grinding on start up
 [notespace.ai](https://www.notespace.ai/)
 
 Life status: Adopted the Thanos Mindset
+
+To review private repos: 📫 CLunaemail@gmail.com
 <!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
