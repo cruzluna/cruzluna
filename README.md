@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Grinding on start up 
 [notespace.ai](https://www.notespace.ai/)
 
+To generate botched notion templates: [Mid school template](https://beta.notespace.ai/)
+
 Life status: Adopted the Thanos Mindset
 
 To review private repos: 📫 CLunaemail@gmail.com
