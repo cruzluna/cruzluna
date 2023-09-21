@@ -20,7 +20,6 @@ Grinding on start up
 
 To generate botched notion templates: [Mid school template](https://beta.notespace.ai/)
 
-Life status: Adopted the Thanos Mindset
 
 To review private repos: 📫 CLunaemail@gmail.com
 <!--
