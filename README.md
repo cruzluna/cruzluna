@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## About me
 -->
+![](https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet)
+
 ### New start up grind: stratus🌩️
 
 Former start up grind:
