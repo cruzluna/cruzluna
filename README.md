@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 Former start up grind:
 [notespace.ai](https://www.notespace.ai/)
-
+<!--
 To generate botched notion templates: [template gen](https://beta.notespace.ai/)
-
+-->
 
 To review private repos: 📫 CLunaemail@gmail.com
 
