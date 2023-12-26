@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet)
 
 ### New start up grind: [stratus](https://gr8-limiter.vercel.app/)🌩️
+rate limiter for your full stack projects. 
 
 Former start up grind:
 [notespace.ai](https://www.notespace.ai/)
