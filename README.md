@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 ## About me
 -->
 ![](https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzluna/)](https://www.linkedin.com/in/cruzluna)
+![Blog](https://img.shields.io/badge/Tech_Posts-green)
+
 
 ### New start up grind: [stratus](https://gr8-limiter.vercel.app/)🌩️
-rate limiter for your full stack projects. 
 
 Former start up grind:
 [notespace.ai](https://www.notespace.ai/)
@@ -27,6 +29,8 @@ To generate botched notion templates: [template gen](https://beta.notespace.ai/)
 -->
 
 To review private repos: 📫 CLunaemail@gmail.com
+
+
 
 ## Tech stack
 
@@ -48,7 +52,6 @@ To review private repos: 📫 CLunaemail@gmail.com
 <!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruz-luna-335753212/)](https://www.linkedin.com/in/cruz-luna-335753212/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:LunaC8@unlv.nevada.edu)](mailto:LunaC8@unlv.nevada.edu)
 
 ## Currently Learning :brain:
