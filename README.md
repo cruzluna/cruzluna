@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzluna/)](https://www.linkedin.com/in/cruzluna)
-![Blog](https://img.shields.io/badge/Tech_Posts-green)
+<a href="https://cruzluna.dev"><img src="https://img.shields.io/badge/Tech_Posts-green" alt="Tech Posts"></a>
 
 
 ### New start up grind: [stratus](https://gr8-limiter.vercel.app/)🌩️
