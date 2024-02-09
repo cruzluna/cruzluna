@@ -15,24 +15,38 @@ Here are some ideas to get you started:
 
 ## About me
 -->
-![](https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzluna/)](https://www.linkedin.com/in/cruzluna)
-<a href="https://cruzluna.dev"><img src="https://img.shields.io/badge/Tech_Posts-green" alt="Tech Posts"></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cruzluna&color=blueviolet"/>
+  <a href="https://linkedin.com/in/cruzluna" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cruzluna/" />
+  </a>
+  <a href="https://cruzluna.dev" target="_blank"><img src="https://img.shields.io/badge/Tech_Posts-green" alt="Tech Posts"></a>
+</div>
+<div>
+
+  <p>
+    Trying to build cool things that have an impact. I am currently learning Rust  🦀 and working on a rich text editor in the browser to give users the power to create blogs, docs, collaborative workspaces, and more.
+  </p>
+  
+
+  <span>
+    Occassionally I write tech blog posts -> 
+    <a href="https://cruzluna.dev" target="_blank">
+       cruzluna.dev
+    </a>
+  </span>
+</div>
 
 
-### New start up grind: [stratus](https://gr8-limiter.vercel.app/)🌩️
-
-Former start up grind:
-[notespace.ai](https://www.notespace.ai/)
 <!--
 To generate botched notion templates: [template gen](https://beta.notespace.ai/)
 -->
 
-To review private repos: 📫 CLunaemail@gmail.com
+To contact me: 📫 CLunaemail@gmail.com
 
 
 
-## Tech stack
+# Tech stack 🛠️
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,6 +62,17 @@ To review private repos: 📫 CLunaemail@gmail.com
 ![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+
+
+## Project Graveyard 🪦
+[stratus](https://gr8-limiter.vercel.app/)🌩️
+
+<img src="https://github.com/cruzluna/cruzluna/assets/73450306/d0b784c1-5bc0-472a-930a-5aaccd1989da" width="400"/>
+
+
+[notespace.ai](https://www.notespace.ai/)🔗
+
+<img src="https://github.com/cruzluna/cruzluna/assets/73450306/91c922fe-c63c-4fbf-8db6-c4e60ccefdde" width="400"/> 
 
 <!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
