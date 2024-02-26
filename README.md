@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div>
 
   <p>
-    Trying to build cool things that have an impact. I am currently learning Rust  🦀 and working on a rich text editor in the browser to give users the power to create blogs, docs, collaborative workspaces, and more.
+    Trying to build cool things that have an impact. I am currently learning Rust  🦀 
   </p>
   
 
