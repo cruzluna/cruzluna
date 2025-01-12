@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 </div>
 <div>
 
-  <p>
-    Trying to build cool things that have an impact. I am currently learning Rust  🦀 
-  </p>
-  
 
   <span>
     Occasionally I write tech blog posts -> 
@@ -42,8 +38,9 @@ Here are some ideas to get you started:
 To generate botched notion templates: [template gen](https://beta.notespace.ai/)
 -->
 
+<!--
 To contact me: 📫 CLunaemail@gmail.com
-
+-->
 
 
 # Tech stack 🛠️
