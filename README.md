@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
   <span>
-    Occasionally I write tech blog posts -> 
+    Occasionally I write stuff -> 
     <a href="https://cruzluna.dev" target="_blank">
        cruzluna.dev
     </a>
@@ -42,6 +42,7 @@ To generate botched notion templates: [template gen](https://beta.notespace.ai/)
 To contact me: 📫 CLunaemail@gmail.com
 -->
 
+<!--
 
 # Tech stack 🛠️
 
@@ -71,7 +72,7 @@ To contact me: 📫 CLunaemail@gmail.com
 [notespace.ai](https://www.notespace.ai/)🔗
 
 <img src="https://github.com/cruzluna/cruzluna/assets/73450306/91c922fe-c63c-4fbf-8db6-c4e60ccefdde" width="400"/> 
-
+-->
 <!--
 - 📫 How to reach me: LunaC8@unlv.nevada.edu
 
