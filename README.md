@@ -23,14 +23,17 @@ Here are some ideas to get you started:
   <a href="https://cruzluna.dev" target="_blank"><img src="https://img.shields.io/badge/Tech_Posts-green" alt="Tech Posts"></a>
 </div>
 <div>
-
-
   <span>
-    Occasionally I write stuff -> 
+    Occasionally I write stuff →
     <a href="https://cruzluna.dev" target="_blank">
-       cruzluna.dev
+      cruzluna.dev
     </a>
   </span>
+  <br />
+  <span>But mostly I tweet crap</span>
+  <a href="https://x.com/nvimcruz" target="_blank">
+  X
+  </a>
 </div>
 
 
