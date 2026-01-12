@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </a>
   </span>
   <br />
-  <span>But mostly I tweet crap</span>
+  <span>But mostly I tweet </span>
   <a href="https://x.com/nvimcruz" target="_blank">
   X
   </a>
